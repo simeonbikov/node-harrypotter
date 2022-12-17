@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Harry Potter",
+    "house": "Gryffindor"
+  },
+  {
+    "id": 2,
+    "name": "Ron Weasley",
+    "house": "Gryffindor"
+  },
+  {
+    "id": 3,
+    "name": "Hermione Granger",
+    "house": "Gryffindor"
+  },
+  {
+    "id": 4,
+    "name": "Draco Malfoy",
+    "house": "Slytherin"
+  },
+  {
+    "id": 5,
+    "name": "Albus Dumbledore",
+    "house": "Gryffindor"
+  },
+  {
+    "id": 6,
+    "name": "Severus Snape",
+    "house": "Slytherin"
+  },
+  {
+    "id": 7,
+    "name": "Neville Longbottom",
+    "house": "Gryffindor"
+  },
+  {
+    "id": 8,
+    "name": "Luna Lovegood",
+    "house": "Ravenclaw"
+  },
+  {
+    "id": 9,
+    "name": "Cedric Diggory",
+    "house": "Hufflepuff"
+  },
+  {
+    "id": 10,
+    "name": "Cho Chang",
+    "house": "Ravenclaw"
+  },
+  {
+    "id": 11,
+    "name": "Minerva McGonagall",
+    "house": "Gryffindor"
+  },
+  {
+    "id": 12,
+    "name": "Rubeus Hagrid",
+    "house": "Gryffindor"
+  },
+  {
+    "id": 13,
+    "name": "Voldemort",
+    "house": "Slytherin"
+  },
+  {
+    "id": 14,
+    "name": "Sirius Black",
+    "house": "Gryffindor"
+  },
+  {
+    "id": 15,
+    "name": "Remus Lupin",
+    "house": "Gryffindor"
+  },
+  {
+    "id": 16,
+    "name": "Bellatrix Lestrange",
+    "house": "Slytherin"
+  },
+  {
+    "id": 17,
+    "name": "Dolores Umbridge",
+    "house": "Slytherin"
+  },
+  {
+    "id": 18,
+    "name": "Ginny Weasley",
+    "house": "Gryffindor"
+  },
+  {
+    "id": 19,
+    "name": "Fred Weasley",
+    "house": "Gryffindor"
+  },
+  {
+    "id": 20,
+    "name": "George Weasley",
+    "house": "Gryffindor"
+  },
+  {
+    "id": 21,
+    "name": "Lee Jordan",
+    "house": "Gryffindor"
+  }
+]
